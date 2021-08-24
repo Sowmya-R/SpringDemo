@@ -16,6 +16,8 @@ import osgl.version.Versioned;
  * press F5 in the browser to watch the immediate change
  * in the browser!
  */
+
+//Jenkins demo
 @SuppressWarnings("unused")
 @Versioned
 public class AppEntry {
